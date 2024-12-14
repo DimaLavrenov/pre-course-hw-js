@@ -1,4 +1,4 @@
-let rule = "sadsadsadsadasdsadasdasda";
+let rule = "Еще не родился тот человек, который поставил бы цель и не смог бы стать программистом.";
 
 
 switch(true){
